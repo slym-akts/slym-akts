@@ -1,4 +1,3 @@
-![MasterHead](https://www.canva.com/design/DAGLoMJjKi8/0EdRxhWx6-PwcNHJsefRZg/view?utm_content=DAGLoMJjKi8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 <h1 align="center">Hi 👋, I'm Süleyman AKTAŞ</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
 
